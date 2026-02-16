@@ -1,6 +1,6 @@
 # Hi there, I'm Pranay 👋
 
-**Frontend Builder | Technical DevRel | ZK Privacy Advocate**
+**Builder | Technical DevRel | ZK Privacy Advocate**
 
 I am a full-stack Web3 developer and technical community specialist. I spend my time bridging the gap between complex cryptographic architectures (like ZK proofs) and the frontend product engineers who build on them. 
 
