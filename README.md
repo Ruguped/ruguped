@@ -28,11 +28,6 @@ I bridge the gap between complex cryptographic architectures and the frontend en
 - 🏆 **Aleo Tier-1 Contributor** — Drove massive early-stage community adoption and developer education for the Aleo privacy network
 - 📱 **Base Mini-Apps** — Architecting consumer-friendly UX on modern crypto rails
 
----
-
-### 📊 GitHub Stats
-
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruguped&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
