@@ -9,7 +9,7 @@ I bridge the gap between complex cryptographic architectures and the frontend en
 ### 🚀 What I'm Working On
 - 🏗️ **Building:** [**Post2X**](https://github.com/Ruguped/testapp1) — A Base mini-app (Next.js/TS) for cross-posting to X and Farcaster using Privy & Frames
 - 🗣️ **Community:** Community Ambassador for **Aleo** — hosted in-person ZK meetups and drove testnet adoption *(Recognized as Top-Tier Contributor w/ ~$14k grant)*
-- 🌱 **Exploring:** Client-side STARK proving, the Actor execution model, and bridging Rust-centric VMs to TypeScript environments
+- 🌱 **Exploring:** Client-side proving privacy tech, new paradigms ,and building accessible TypeScript tooling for advanced zkVMs
 
 ---
 
